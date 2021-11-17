@@ -32,10 +32,6 @@ class Home extends Component {
         }, 3500);
     }
 
-    componentDidUnmount() {
-        clearInterval(this.timeout);
-    }
-
     render() {
         let serviceName = services[this.state.serviceNameIndex % services.length];
         let problemName = problems[this.state.problemNameIndex % problems.length];

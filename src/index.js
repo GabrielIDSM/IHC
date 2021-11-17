@@ -6,6 +6,8 @@ import './App.css';
 import './index.css';
 import './components/Home.css';
 import './components/Navbar.css';
+import './components/CompetitiveAnalysis.css';
+import 'react-medium-image-zoom/dist/styles.css'
 
 ReactDOM.render(
   <React.StrictMode>

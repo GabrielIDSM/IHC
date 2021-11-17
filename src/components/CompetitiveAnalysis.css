@@ -1,0 +1,39 @@
+.content-ca {
+    max-width: 80em;
+    padding-bottom: 10rem;
+}
+
+.logo-ca {
+    width: 15rem;
+}
+
+.interface-ca {
+    width: 19rem;
+}
+
+.td-ca {
+    padding: 1rem;
+    max-width: 18rem;
+    text-align: justify;
+    vertical-align: top;
+}
+
+.logo-tr-ca td {
+    padding: 1rem;
+    max-width: 18rem;
+    text-align: center;
+}
+
+.description-tr-ca {
+    border-style: solid;
+    border-width: 0 0 0 8px;
+    border-color: white;
+    background-color: #222;
+}
+
+.strengths-weaknesses-tr-ca {
+    border-style: solid;
+    border-width: 0 0 0 8px;
+    border-color: white;
+    background-color: #222;
+}

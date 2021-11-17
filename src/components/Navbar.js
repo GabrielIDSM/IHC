@@ -4,10 +4,6 @@ import { Link } from 'react-router-dom';
 import logo from '../images/logo.svg'
 
 class Navbar extends Component {
-    constructor(props) {
-        super(props)
-    }
-
     render() {
         return (
             <div className="text-center Navbar">
