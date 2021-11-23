@@ -65,7 +65,7 @@ class CompetitiveAnalysis extends Component {
                                 <h6><i className="fas fa-chevron-up text-success"></i> Uso de gráficos </h6>
                                 <h6><i className="fas fa-chevron-up text-success"></i> Monitoramento das últimas 24 horas </h6>
                                 <br/>
-                                <h6><i className="fas fa-chevron-down text-danger"></i> Não é possivel cadastrar um novo serviço para monitoramento </h6>
+                                <h6><i className="fas fa-chevron-down text-danger"></i> Não é possível cadastrar novos serviços </h6>
                                 <h6><i className="fas fa-chevron-down text-danger"></i> Atualização com 15 minutos de delay </h6>
                             </td>
                             <td className="td-ca">
