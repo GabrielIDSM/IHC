@@ -35,6 +35,23 @@ class CompetitiveAnalysis extends Component {
                             <td className="td-ca"> <h6> 'Down For Everyone Or Just Me?' é uma ferramenta capaz de verificar se um determinado serviço responde ou não a uma requisição HTTP. </h6> </td>
                             <td className="td-ca"> <h6> O UptimeRobot monitora e notifica qualquer problema nos serviços escolhidos pelo usuário. </h6> </td>
                         </tr>
+                        <tr className="use-tr-ca">
+                            <td className="td-ca"> <h3> Como usar </h3> </td>
+                            <td className="td-ca"> 
+                                <h6> O Downdetector tem duas formas de uso: Interface Web e API. Na interface web o usuário acessa o site e tem acesso a informações de vários serviços e gráficos de seu comportamento nas últimas 24h. Usando sua API, é possível fazer uma integração com qualquer sistema que o usuário desejar. </h6>
+                                <h6> O Downdetector possui uma interface web simples de ser usada, onde sua página inicial é um catálogo de serviços ordenados pelos serviços com maior instabilidade nas últimas 24h, logo é fácil saber se um determinado serviço está com problemas. </h6>
+                                <h6> Porém, se o usuário quiser ser notificado sempre que um serviço apresenta algum problema, isso não será possível. Isso obriga o usuário a desenvolver seu próprio serviço de notificação baseado em requisições a API. </h6> 
+                                <h6> A falta do serviço de notificação é problemática em aplicações corporativas, onde o impacto de instabilidades em serviços pode causar prejuízos. Além disso, não é possível monitorar um serviço que não esteja no catálogo. </h6>
+                            </td>
+                            <td className="td-ca"> 
+                                <h6> 'Down For Everyone Or Just Me?' é uma ferramenta com funções bem limitadas. Essencialmente, é possível apenas verificar se algum serviço é acessível no momento em que é feita a requisição. </h6>
+                                <h6> Para o usuário comum, essa verificação é suficiente. Porém, não há uma API para realizar integração e nem monitoramento dos serviços. Isso impossibilita seu uso em qualquer aplicação corporativa. </h6>
+                            </td>
+                            <td className="td-ca"> 
+                                <h6> O UptimeRobot é um serviço de monitoramento robusto desenvolvido como plataforma de apoio para aplicações corporativas. Ele possui funcionalidades como notificação personalizada via E-mail, SMS, Telegram e outros meios, monitoramento de serviços personalizados e relatórios sobre os serviços monitorados. </h6>
+                                <h6> Contudo, para o usuário comum não é uma ferramenta muito atrativa. O UptimeRobot não possui uma ferramenta pública de monitoramento dos principais serviços da internet. Assim, uma simples checagem exige um cadastro e uma série de configurações. </h6>
+                            </td>
+                        </tr>
                         <tr className="screenshot-tr-ca">
                             <td className="td-ca"> <h3> Interface </h3> </td>
                             <td className="td-ca">  <Zoom> <img className="interface-ca" src={downdetector_screenshot} alt="screenshot" />  </Zoom> </td>
@@ -48,7 +65,7 @@ class CompetitiveAnalysis extends Component {
                                 <h6><i className="fas fa-chevron-up text-success"></i> Uso de gráficos </h6>
                                 <h6><i className="fas fa-chevron-up text-success"></i> Monitoramento das últimas 24 horas </h6>
                                 <br/>
-                                <h6><i className="fas fa-chevron-down text-danger"></i> Ausência de um serviço de notificação </h6>
+                                <h6><i className="fas fa-chevron-down text-danger"></i> Não é possivel cadastrar um novo serviço para monitoramento </h6>
                                 <h6><i className="fas fa-chevron-down text-danger"></i> Atualização com 15 minutos de delay </h6>
                             </td>
                             <td className="td-ca">
