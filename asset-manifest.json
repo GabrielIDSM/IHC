@@ -1,30 +1,36 @@
 {
   "files": {
-    "main.css": "/IHC/static/css/main.8808f0e8.chunk.css",
-    "main.js": "/IHC/static/js/main.f7261ed8.chunk.js",
-    "main.js.map": "/IHC/static/js/main.f7261ed8.chunk.js.map",
+    "main.css": "/IHC/static/css/main.eab70d93.chunk.css",
+    "main.js": "/IHC/static/js/main.4e0b94b1.chunk.js",
+    "main.js.map": "/IHC/static/js/main.4e0b94b1.chunk.js.map",
     "runtime-main.js": "/IHC/static/js/runtime-main.ffe61f4f.js",
     "runtime-main.js.map": "/IHC/static/js/runtime-main.ffe61f4f.js.map",
     "static/css/2.0d0b0543.chunk.css": "/IHC/static/css/2.0d0b0543.chunk.css",
-    "static/js/2.1701bda8.chunk.js": "/IHC/static/js/2.1701bda8.chunk.js",
-    "static/js/2.1701bda8.chunk.js.map": "/IHC/static/js/2.1701bda8.chunk.js.map",
+    "static/js/2.94ca3810.chunk.js": "/IHC/static/js/2.94ca3810.chunk.js",
+    "static/js/2.94ca3810.chunk.js.map": "/IHC/static/js/2.94ca3810.chunk.js.map",
     "index.html": "/IHC/index.html",
     "static/css/2.0d0b0543.chunk.css.map": "/IHC/static/css/2.0d0b0543.chunk.css.map",
-    "static/css/main.8808f0e8.chunk.css.map": "/IHC/static/css/main.8808f0e8.chunk.css.map",
-    "static/js/2.1701bda8.chunk.js.LICENSE.txt": "/IHC/static/js/2.1701bda8.chunk.js.LICENSE.txt",
+    "static/css/main.eab70d93.chunk.css.map": "/IHC/static/css/main.eab70d93.chunk.css.map",
+    "static/js/2.94ca3810.chunk.js.LICENSE.txt": "/IHC/static/js/2.94ca3810.chunk.js.LICENSE.txt",
+    "static/media/desk-img-1.a609b72b.png": "/IHC/static/media/desk-img-1.a609b72b.png",
+    "static/media/desk-img-2.09db5d25.png": "/IHC/static/media/desk-img-2.09db5d25.png",
+    "static/media/desk-img-3.db078e48.png": "/IHC/static/media/desk-img-3.db078e48.png",
+    "static/media/desk-img-4.39446ae9.png": "/IHC/static/media/desk-img-4.39446ae9.png",
+    "static/media/desk.34686def.png": "/IHC/static/media/desk.34686def.png",
     "static/media/down-for-everyone-logo.f9cd631e.png": "/IHC/static/media/down-for-everyone-logo.f9cd631e.png",
     "static/media/down-for-everyone-screenshot.13c2a826.png": "/IHC/static/media/down-for-everyone-screenshot.13c2a826.png",
     "static/media/downdetector-logo.3269c48c.png": "/IHC/static/media/downdetector-logo.3269c48c.png",
     "static/media/downdetector-screenshot.187c1b7d.png": "/IHC/static/media/downdetector-screenshot.187c1b7d.png",
     "static/media/Home.css": "/IHC/static/media/home-bg.58261668.jpg",
     "static/media/logo.fd542e08.svg": "/IHC/static/media/logo.fd542e08.svg",
+    "static/media/uptime-robot-logo.873d9b85.png": "/IHC/static/media/uptime-robot-logo.873d9b85.png",
     "static/media/uptime-robot-screenshot.cd26b566.png": "/IHC/static/media/uptime-robot-screenshot.cd26b566.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ffe61f4f.js",
     "static/css/2.0d0b0543.chunk.css",
-    "static/js/2.1701bda8.chunk.js",
-    "static/css/main.8808f0e8.chunk.css",
-    "static/js/main.f7261ed8.chunk.js"
+    "static/js/2.94ca3810.chunk.js",
+    "static/css/main.eab70d93.chunk.css",
+    "static/js/main.4e0b94b1.chunk.js"
   ]
 }
