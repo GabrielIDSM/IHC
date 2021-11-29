@@ -7,6 +7,8 @@ import './index.css';
 import './components/Home.css';
 import './components/Navbar.css';
 import './components/CompetitiveAnalysis.css';
+import './components/EtapaUm.css';
+import './components/DeskResearch.css';
 import 'react-medium-image-zoom/dist/styles.css'
 
 ReactDOM.render(

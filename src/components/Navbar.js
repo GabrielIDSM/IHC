@@ -13,7 +13,7 @@ class Navbar extends Component {
                             <h3 className="masthead-brand"> <img className="Logo" src={logo} alt="logo"/> </h3>
                             <nav className="nav nav-masthead justify-content-center">
                                 <Link className={ this.props.active === "/" ? "nav-link active" : "nav-link" } to="/"><i className="fas fa-home"></i> Início </Link>
-                                <Link className={ this.props.active === "/competitive-analysis" ? "nav-link active" : "nav-link" } to="/competitive-analysis"><i className="fas fa-times"></i> Análise Competitiva </Link>
+                                <Link className={ this.props.active === "/etapa-um" ? "nav-link active" : "nav-link" } to="/etapa-um"> Etapa 1 </Link>
                             </nav>
                         </div>
                     </header>

@@ -3,6 +3,7 @@
     width: 100%;
     margin: 0;
     padding: 0;
+    background-color: rgba(64,0,0,1);;
 }
 
 .cover-container-navbar {
@@ -10,5 +11,5 @@
 }
 
 .Logo {
-    height: 3rem;
+    height: 2.2rem;
 }

@@ -1,0 +1,164 @@
+.EtapaUm-Content-Main {
+    max-width: 80em;
+    padding-bottom: 10rem;
+    color: rgba(33,33,33,1);
+    font-family: 'PT Sans', sans-serif;
+    font-size: 11pt;
+    font-weight: 400;
+    line-height: 1.6667;
+    margin: 0 auto;
+}
+
+.Title-Odd {
+    border-width: 0 0 0.15rem 0;
+    border-style: solid;
+    border-color: rgba(190,0,0,1);
+    color: rgba(190,0,0,1);
+}
+
+.Title-Even {
+    border-width: 0 0 0.15rem 0;
+    border-style: solid;
+    border-color: rgba(64,0,0,1);
+    color: rgba(64,0,0,1);
+}
+
+.Link-Odd {
+    background-color: rgba(190,0,0,1);
+}
+
+.Link-Even {
+    background-color: rgba(64,0,0,1);
+}
+
+.EtapaUm-Link {
+    margin-left: 0.5rem;
+    padding: 0.5rem 1rem;
+    display: inline-block;
+    border-radius: 4px;
+    color: #fff;
+    font-weight: bold;
+}
+
+.EtapaUm-Link i {
+    margin: 0 0 0 5px;
+}
+
+a:hover { 
+    text-decoration: none; 
+}
+
+a:active { 
+    text-decoration: none; 
+}
+
+.EtapaUm-Title-Div {
+    margin: 1rem 0;
+    padding: 0.5rem;
+}
+
+.EtapaUm-Title-Div h4 {
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+
+.EtapaUm-Title-Div h5 {
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+
+.EtapaUm-Content-Div p {
+    padding: 0 0.5rem;
+    font-family: Merriweather, serif;
+    font-size: 14pt;
+    font-weight: 400;
+    line-height: 1.6667;
+    text-align: justify;
+}
+
+.EtapaUm-Content-Div .EtapaUm-Quotes {
+    padding: 0 10rem;
+    display: block;
+    text-align: center;
+    font-size: 24pt;
+    font-style: italic;
+    font-weight: bold;
+    color: rgba(33,33,33,1);
+}
+
+.div-table-eu {
+    margin: 0 auto 1rem auto;
+    width: 99%;
+}
+
+.align-justify-eu {
+    text-align: justify;
+}
+
+.align-center-eu {
+    text-align: center;
+}
+
+.td-eu {
+    padding: 0.25rem;
+    max-width: 33%;
+    vertical-align: top;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 11pt;
+    font-weight: 400;
+    line-height: 1.6667;
+}
+
+.logo-eu {
+    width: 60%;
+}
+
+.EtapaUm-Images-Div {
+    margin: 0 0 1rem 0;
+    padding: 0;
+    width: 100%;
+    display: flex;
+}
+
+.EtapaUm-Image-Div {
+    margin: 0 0.5rem;
+    padding: 0;
+    width: calc(50% - 1rem);
+    display: inline-block;
+    border-style: solid;
+    border-width: 0.15rem;
+    border-color: rgba(190,0,0,1);
+    background-color: rgba(190,0,0,1);
+    color: #fff;
+}
+
+.EtapaUm-Image {
+    width: 100%;
+}
+
+.EtapaUm-Content-Main .EtapaUm-Image-Comment {
+    margin: 0;
+    padding: 0 0.5rem 0.4rem 0.5rem;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 11pt;
+    font-weight: 400;
+    line-height: 1.2;
+}
+
+.EtapaUm-Ul {
+    margin: 0;
+    padding: 0 0 0 0.5rem;
+    list-style-type: square;
+    list-style-position: inside;
+}
+
+.EtapaUm-Ul li {
+    margin: 0;
+    padding: 0;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 13pt;
+    font-weight: 400;
+    line-height: 1.6667;
+}

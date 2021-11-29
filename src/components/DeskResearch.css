@@ -1,0 +1,24 @@
+.content-dr {
+    max-width: 80em;
+    padding-bottom: 10rem;
+    color: rgba(33,33,33,1);
+    font-family: 'PT Sans', sans-serif;
+    font-size: 11pt;
+    font-weight: 400;
+    line-height: 1.6667;
+}
+
+.DR-Image-Div {
+    margin: 0 0.5rem;
+    padding: 0.5rem;
+    width: calc(100% - 1rem);
+    display: inline-block;
+    border-style: solid;
+    border-width: 0.15rem;
+    border-color: rgba(190,0,0,1);
+    color: #fff;
+}
+
+.DR-Image {
+    width: 100%;
+}

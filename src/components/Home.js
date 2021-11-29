@@ -44,14 +44,13 @@ class Home extends Component {
                             <h3 className="masthead-brand"> <img className="Logo" src={logo} alt="logo" /> </h3>
                             <nav className="nav nav-masthead justify-content-center">
                                 <Link className="nav-link active" to="/"><i className="fas fa-home"></i> Início </Link>
-                                <Link className="nav-link" to="/competitive-analysis"><i className="fas fa-times"></i> Análise Competitiva </Link>
+                                <Link className="nav-link" to="/etapa-um"> Etapa 1 </Link>
                             </nav>
                         </div>
                     </header>
 
-                    <main role="main" className="inner cover">
+                    <main role="main" className="inner cover text-white">
                         <h1 className="cover-heading"><b>{serviceName}</b> caiu ou <b>{problemName}</b> ?</h1>
-                        <h5>Pensando em responder essas e outras perguntas, o 'Is Down ?' tem o objetivo de monitorar os principais serviços da internet.</h5>
                     </main>
 
                     <footer className="mastfoot mt-auto">
