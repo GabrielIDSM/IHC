@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/IHC/static/css/main.df50012d.chunk.css",
-    "main.js": "/IHC/static/js/main.89831f5f.chunk.js",
-    "main.js.map": "/IHC/static/js/main.89831f5f.chunk.js.map",
+    "main.css": "/IHC/static/css/main.75615fc4.chunk.css",
+    "main.js": "/IHC/static/js/main.40a6e36e.chunk.js",
+    "main.js.map": "/IHC/static/js/main.40a6e36e.chunk.js.map",
     "runtime-main.js": "/IHC/static/js/runtime-main.ffe61f4f.js",
     "runtime-main.js.map": "/IHC/static/js/runtime-main.ffe61f4f.js.map",
     "static/css/2.0d0b0543.chunk.css": "/IHC/static/css/2.0d0b0543.chunk.css",
-    "static/js/2.c6519b14.chunk.js": "/IHC/static/js/2.c6519b14.chunk.js",
-    "static/js/2.c6519b14.chunk.js.map": "/IHC/static/js/2.c6519b14.chunk.js.map",
+    "static/js/2.d480a963.chunk.js": "/IHC/static/js/2.d480a963.chunk.js",
+    "static/js/2.d480a963.chunk.js.map": "/IHC/static/js/2.d480a963.chunk.js.map",
     "index.html": "/IHC/index.html",
     "static/css/2.0d0b0543.chunk.css.map": "/IHC/static/css/2.0d0b0543.chunk.css.map",
-    "static/css/main.df50012d.chunk.css.map": "/IHC/static/css/main.df50012d.chunk.css.map",
-    "static/js/2.c6519b14.chunk.js.LICENSE.txt": "/IHC/static/js/2.c6519b14.chunk.js.LICENSE.txt",
+    "static/css/main.75615fc4.chunk.css.map": "/IHC/static/css/main.75615fc4.chunk.css.map",
+    "static/js/2.d480a963.chunk.js.LICENSE.txt": "/IHC/static/js/2.d480a963.chunk.js.LICENSE.txt",
+    "static/media/business.3c72eddb.png": "/IHC/static/media/business.3c72eddb.png",
     "static/media/desk-img-1.a609b72b.png": "/IHC/static/media/desk-img-1.a609b72b.png",
     "static/media/desk-img-2.09db5d25.png": "/IHC/static/media/desk-img-2.09db5d25.png",
     "static/media/desk-img-3.db078e48.png": "/IHC/static/media/desk-img-3.db078e48.png",
@@ -22,14 +23,15 @@
     "static/media/downdetector-screenshot.187c1b7d.png": "/IHC/static/media/downdetector-screenshot.187c1b7d.png",
     "static/media/Home.css": "/IHC/static/media/home-bg.58261668.jpg",
     "static/media/logo.fd542e08.svg": "/IHC/static/media/logo.fd542e08.svg",
+    "static/media/student.a46d2646.png": "/IHC/static/media/student.a46d2646.png",
     "static/media/uptime-robot-logo.873d9b85.png": "/IHC/static/media/uptime-robot-logo.873d9b85.png",
     "static/media/uptime-robot-screenshot.cd26b566.png": "/IHC/static/media/uptime-robot-screenshot.cd26b566.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ffe61f4f.js",
     "static/css/2.0d0b0543.chunk.css",
-    "static/js/2.c6519b14.chunk.js",
-    "static/css/main.df50012d.chunk.css",
-    "static/js/main.89831f5f.chunk.js"
+    "static/js/2.d480a963.chunk.js",
+    "static/css/main.75615fc4.chunk.css",
+    "static/js/main.40a6e36e.chunk.js"
   ]
 }
