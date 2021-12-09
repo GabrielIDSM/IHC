@@ -20,14 +20,14 @@ import business from '../images/business.png'
 ChartJS.register(ArcElement, Tooltip, Legend);
 
 let values = [
-    [1, 12, 2, 0, 0],
-    [3, 11, 1],
-    [4, 9]
+    [14, 2, 0, 1],
+    [3, 13, 1],
+    [4, 11]
 ]
 
 let data = [
     {
-        labels: ['Abaixo de 18', 'Entre 18 e 30', 'Entre 31 e 55', 'Mais de 55', 'Prefiro não informar'],
+        labels: ['Entre 18 e 30', 'Entre 31 e 55', 'Mais de 55', 'Prefiro não informar'],
         datasets: [
             {
                 label: 'Qual sua idade ?',
