@@ -232,7 +232,7 @@ class EtapaUm extends Component {
                                 </p>
                                 <ul className="EtapaUm-Ul">
                                     <li>Deve ser possível integrar o serviço com a plataforma da empresa</li>
-                                    <li>O serviço deve monitorar qualquer serviço que o cliente solicitar</li>
+                                    <li>Deverá monitorar qualquer serviço que o cliente solicitar</li>
                                     <li>Caso um problema seja detectado em um dos serviços monitorados, o cliente deve ser notificado</li>
                                 </ul>
                             </div>
