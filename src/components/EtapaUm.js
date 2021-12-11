@@ -59,12 +59,12 @@ let data = [
                 label: 'Qual seu gênero ?',
                 data: values[1],
                 backgroundColor: [
-                    'rgba(224, 0,   224, 0.5)',
+                    'rgba(224, 0,   0,   0.5)',
                     'rgba(0,   0,   224, 0.5)',
                     'rgba(224, 224, 0,   0.5)'
                 ],
                 borderColor: [
-                    'rgba(224, 0,   224, 1)',
+                    'rgba(224, 0,   0,   1)',
                     'rgba(0,   0,   224, 1)',
                     'rgba(224, 224, 0,   1)'
                 ],
@@ -105,69 +105,6 @@ class EtapaUm extends Component {
                         <p className="EtapaUm-Quotes"> “Como podemos monitorar a qualidade de serviços da internet ?” </p>
                     </div>
                     <div className="EtapaUm-Title-Div Title-Odd">
-                        <h5> Análise Competitiva </h5>
-                    </div>
-                    <div className="EtapaUm-Content-Div">
-                        <p>
-                            O objetivo da análise competitiva é entender o funcionamento das soluções semelhantes presentes no mercado.
-                            Essa etapa é muito importante para entender quais os pontos fracos e fortes dos concorrentes, e com isso desenvolver uma solução mais completa que as existentes.
-                        </p>
-                        <p>
-                            Para nossa análise competitiva escolhemos três serviços:
-                        </p>
-                        <div className="div-table-eu">
-                            <table className="table-eu">
-                                <tr className="logo-tr-eu">
-                                    <td className="align-center-eu"> <img className="logo-eu" src={downdetector_logo} alt="logo" /> </td>
-                                    <td className="align-center-eu"> <img className="logo-eu" src={down_for_everyone_logo} alt="logo" /> </td>
-                                    <td className="align-center-eu"> <img className="logo-eu" src={uptime_robot_logo} alt="logo" /> </td>
-                                </tr>
-                                <tr className="service-tr-eu">
-                                    <td className="td-eu align-center-eu"> <h5> Downdetector </h5> </td>
-                                    <td className="td-eu align-center-eu"> <h5> Down For Everyone Or Just Me? </h5> </td>
-                                    <td className="td-eu align-center-eu"> <h5> UptimeRobot </h5> </td>
-                                </tr>
-                                <tr className="description-tr-eu">
-                                    <td className="td-eu"> <p> O Downdetector foi escolhido para a análise por ser a maior e mais popular ferramenta de monitoramento de serviços da internet. </p> </td>
-                                    <td className="td-eu"> <p> 'Down For Everyone Or Just Me?' foi escolhido pela velocidade da verificação e por poder verificar qualquer servidor. </p> </td>
-                                    <td className="td-eu"> <p> O UptimeRobot foi escolhido por ser uma ferramenta popular no meio corporativo. </p> </td>
-                                </tr>
-                            </table>
-                        </div>
-                        <Link className="EtapaUm-Link Link-Odd" to="/competitive-analysis"> Análise Competitiva <i class="fas fa-external-link-square-alt"></i> </Link>
-                    </div>
-                    <div className="EtapaUm-Title-Div Title-Even">
-                        <h5> Questionário </h5>
-                    </div>
-                    <div className="EtapaUm-Content-Div">
-                        <p>
-                            O questionário é uma ferramenta muito importante para conseguir entender especificidades do público-alvo. No nosso caso, desejamos atender dois diferentes públicos.
-                            O primeiro público é composto por usuários que estão passando por algum problema nos serviços que utiliza, como uma rede social.
-                            O segundo público são os clientes corporativos — ou seja, empresas — que tem o interesse de monitorar serviços fundamentais para seu modelo de negócio e/ou seus próprios serviços e plataformas.
-                        </p>
-                        <p>
-                            Pensando nisso, o questionário foi desenvolvido para obter informações sobre os dois públicos. O formulário é dividido em quatro seções.
-                            A primeira seção é responsável por colher dados demográficos do usuário.
-                            A segunda seção determina qual tipo de usuário está respondendo ao questionário.
-                            Caso o usuário não seja corporativo, ele será redirecionado para a seção três. Caso contrário, será redirecionado para a seção 4.
-                        </p>
-                        <div className="EtapaUm-Chart-Div">
-                            <div className="EtapaUm-Chart">
-                                <h6 className="EtapaUm-Chart-Title"> Qual sua idade ? </h6>
-                                <Doughnut data={data[0]} />
-                            </div>
-                            <div className="EtapaUm-Chart">
-                                <h6 className="EtapaUm-Chart-Title"> Qual seu gênero ? </h6>
-                                <Doughnut data={data[1]} />
-                            </div>
-                            <div className="EtapaUm-Chart">
-                                <h6 className="EtapaUm-Chart-Title"> Você já publicou alguma reclamação no Twitter ? </h6>
-                                <Doughnut data={data[2]} />
-                            </div>
-                        </div>
-                        <a className="EtapaUm-Link Link-Even" href="https://docs.google.com/forms/d/1NwrWRu9GWduImfpt7Xx3gRofpwu6jxNHdh_QHEw4cMk"> Questionário <i class="fas fa-external-link-square-alt"></i> </a>
-                    </div>
-                    <div className="EtapaUm-Title-Div Title-Odd">
                         <h5> Pesquisa Desk </h5>
                     </div>
                     <div className="EtapaUm-Content-Div">
@@ -202,6 +139,69 @@ class EtapaUm extends Component {
                             </div>
                         </div>
                         <Link className="EtapaUm-Link Link-Odd" to="/desk-research"> Pesquisa Desk <i class="fas fa-external-link-square-alt"></i> </Link>
+                    </div>
+                    <div className="EtapaUm-Title-Div Title-Even">
+                        <h5> Análise Competitiva </h5>
+                    </div>
+                    <div className="EtapaUm-Content-Div">
+                        <p>
+                            O objetivo da análise competitiva é entender o funcionamento das soluções semelhantes presentes no mercado.
+                            Essa etapa é muito importante para entender quais os pontos fracos e fortes dos concorrentes, e com isso desenvolver uma solução mais completa que as existentes.
+                        </p>
+                        <p>
+                            Para nossa análise competitiva escolhemos três serviços:
+                        </p>
+                        <div className="div-table-eu">
+                            <table className="table-eu">
+                                <tr className="logo-tr-eu">
+                                    <td className="align-center-eu"> <img className="logo-eu" src={downdetector_logo} alt="logo" /> </td>
+                                    <td className="align-center-eu"> <img className="logo-eu" src={down_for_everyone_logo} alt="logo" /> </td>
+                                    <td className="align-center-eu"> <img className="logo-eu" src={uptime_robot_logo} alt="logo" /> </td>
+                                </tr>
+                                <tr className="service-tr-eu">
+                                    <td className="td-eu align-center-eu"> <h5> Downdetector </h5> </td>
+                                    <td className="td-eu align-center-eu"> <h5> Down For Everyone Or Just Me? </h5> </td>
+                                    <td className="td-eu align-center-eu"> <h5> UptimeRobot </h5> </td>
+                                </tr>
+                                <tr className="description-tr-eu">
+                                    <td className="td-eu"> <p> O Downdetector foi escolhido para a análise por ser a maior e mais popular ferramenta de monitoramento de serviços da internet. </p> </td>
+                                    <td className="td-eu"> <p> 'Down For Everyone Or Just Me?' foi escolhido pela velocidade da verificação e por poder verificar qualquer servidor. </p> </td>
+                                    <td className="td-eu"> <p> O UptimeRobot foi escolhido por ser uma ferramenta popular no meio corporativo. </p> </td>
+                                </tr>
+                            </table>
+                        </div>
+                        <Link className="EtapaUm-Link Link-Even" to="/competitive-analysis"> Análise Competitiva <i class="fas fa-external-link-square-alt"></i> </Link>
+                    </div>
+                    <div className="EtapaUm-Title-Div Title-Odd">
+                        <h5> Questionário </h5>
+                    </div>
+                    <div className="EtapaUm-Content-Div">
+                        <p>
+                            O questionário é uma ferramenta muito importante para conseguir entender especificidades do público-alvo. No nosso caso, desejamos atender dois diferentes públicos.
+                            O primeiro público é composto por usuários que estão passando por algum problema nos serviços que utiliza, como uma rede social.
+                            O segundo público são os clientes corporativos — ou seja, empresas — que tem o interesse de monitorar serviços fundamentais para seu modelo de negócio e/ou seus próprios serviços e plataformas.
+                        </p>
+                        <p>
+                            Pensando nisso, o questionário foi desenvolvido para obter informações sobre os dois públicos. O formulário é dividido em quatro seções.
+                            A primeira seção é responsável por colher dados demográficos do usuário.
+                            A segunda seção determina qual tipo de usuário está respondendo ao questionário.
+                            Caso o usuário não seja corporativo, ele será redirecionado para a seção três. Caso contrário, será redirecionado para a seção 4.
+                        </p>
+                        <div className="EtapaUm-Chart-Div">
+                            <div className="EtapaUm-Chart">
+                                <h6 className="EtapaUm-Chart-Title"> Qual sua idade ? </h6>
+                                <Doughnut data={data[0]} />
+                            </div>
+                            <div className="EtapaUm-Chart">
+                                <h6 className="EtapaUm-Chart-Title"> Qual seu gênero ? </h6>
+                                <Doughnut data={data[1]} />
+                            </div>
+                            <div className="EtapaUm-Chart">
+                                <h6 className="EtapaUm-Chart-Title"> Você já publicou alguma reclamação no Twitter ? </h6>
+                                <Doughnut data={data[2]} />
+                            </div>
+                        </div>
+                        <a className="EtapaUm-Link Link-Odd" href="https://docs.google.com/forms/d/1NwrWRu9GWduImfpt7Xx3gRofpwu6jxNHdh_QHEw4cMk"> Questionário <i class="fas fa-external-link-square-alt"></i> </a>
                     </div>
                     <div className="EtapaUm-Title-Div Title-Even">
                         <h5> Perfis de Usuários </h5>
