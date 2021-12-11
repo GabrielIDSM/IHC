@@ -20,9 +20,9 @@ import business from '../images/business.png'
 ChartJS.register(ArcElement, Tooltip, Legend);
 
 let values = [
-    [14, 2, 0, 1],
-    [3, 13, 1],
-    [4, 11]
+    [15, 2, 0, 1],
+    [3, 14, 1],
+    [4, 12]
 ]
 
 let data = [
