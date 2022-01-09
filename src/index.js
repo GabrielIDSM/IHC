@@ -8,6 +8,8 @@ import './components/Home.css';
 import './components/Navbar.css';
 import './components/CompetitiveAnalysis.css';
 import './components/EtapaUm.css';
+import './components/EtapaDois.css';
+import './components/EtapaTres.css';
 import './components/DeskResearch.css';
 import 'react-medium-image-zoom/dist/styles.css'
 

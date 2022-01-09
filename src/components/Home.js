@@ -45,6 +45,8 @@ class Home extends Component {
                             <nav className="nav nav-masthead justify-content-center">
                                 <Link className="nav-link active" to="/"><i className="fas fa-home"></i> Início </Link>
                                 <Link className="nav-link" to="/etapa-um"> Etapa 1 </Link>
+                                <Link className="nav-link" to="/etapa-dois"> Etapa 2 </Link>
+                                <Link className="nav-link" to="/etapa-tres"> Etapa 3 </Link>
                             </nav>
                         </div>
                     </header>

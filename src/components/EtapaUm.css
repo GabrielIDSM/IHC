@@ -103,7 +103,7 @@ a:active {
 
 .td-eu {
     padding: 0.25rem;
-    max-width: 33%;
+    width: 33%;
     vertical-align: top;
     font-family: 'PT Sans', sans-serif;
     font-size: 11pt;
