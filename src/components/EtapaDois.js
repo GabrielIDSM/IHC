@@ -152,9 +152,9 @@ class EtapaDois extends Component {
                         <div className="div-table-eu">
                             <table className="table-eu EtapaDois-Table">
                                 <tr className="service-tr-eu">
-                                    <td className="td-eu align-center-eu"> <h5> <b>Myth #12</b> <br/> "More choices and features result in higher satisfaction" </h5> </td>
-                                    <td className="td-eu align-center-eu"> <h5> <b>Myth #13</b> <br/> "Icons enhance usability"</h5> </td>
                                     <td className="td-eu align-center-eu"> <h5> <b>Myth #28</b> <br/> "White space is wasted space" </h5> </td>
+                                    <td className="td-eu align-center-eu"> <h5> <b>Myth #13</b> <br/> "Icons enhance usability"</h5> </td>
+                                    <td className="td-eu align-center-eu"> <h5> <b>Myth #12</b> <br/> "More choices and features result in higher satisfaction" </h5> </td>
                                 </tr>
                                 <tr className="description-tr-eu">
                                     <td className="td-eu Myth-Text"> 
@@ -165,7 +165,7 @@ class EtapaDois extends Component {
                                     <td className="td-eu Myth-Text"> 
                                         <p> 
                                             O único ícone usado na solução é o <b>ícone de lupa</b>, presente na barra de navegação.
-                                            Demais informações, como estado dos serviços monitorados, são representadas por meio de cores.
+                                            Demais informações, como estado dos serviços monitorados, são representadas por meio de cores e texto.
                                         </p> 
                                     </td>
                                     <td className="td-eu Myth-Text"> 
