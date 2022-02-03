@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/IHC/static/css/main.9c624de5.chunk.css",
-    "main.js": "/IHC/static/js/main.7563fb7d.chunk.js",
-    "main.js.map": "/IHC/static/js/main.7563fb7d.chunk.js.map",
+    "main.js": "/IHC/static/js/main.1c5ebe96.chunk.js",
+    "main.js.map": "/IHC/static/js/main.1c5ebe96.chunk.js.map",
     "runtime-main.js": "/IHC/static/js/runtime-main.ffe61f4f.js",
     "runtime-main.js.map": "/IHC/static/js/runtime-main.ffe61f4f.js.map",
     "static/css/2.0d0b0543.chunk.css": "/IHC/static/css/2.0d0b0543.chunk.css",
@@ -24,10 +24,10 @@
     "static/media/empresas.83f85ad6.png": "/IHC/static/media/empresas.83f85ad6.png",
     "static/media/fitts.ede88587.png": "/IHC/static/media/fitts.ede88587.png",
     "static/media/formulario.c5608874.png": "/IHC/static/media/formulario.c5608874.png",
-    "static/media/gabriel-task-1.6baeeaeb.png": "/IHC/static/media/gabriel-task-1.6baeeaeb.png",
-    "static/media/gabriel-task-2.dbe489c9.png": "/IHC/static/media/gabriel-task-2.dbe489c9.png",
-    "static/media/galves-task-1.896741ec.png": "/IHC/static/media/galves-task-1.896741ec.png",
-    "static/media/galves-task-2.d9aaff1e.png": "/IHC/static/media/galves-task-2.d9aaff1e.png",
+    "static/media/gabriel-task-1.50b97063.png": "/IHC/static/media/gabriel-task-1.50b97063.png",
+    "static/media/gabriel-task-2.bd0b5c3a.png": "/IHC/static/media/gabriel-task-2.bd0b5c3a.png",
+    "static/media/galves-task-1.f9e1c4ef.png": "/IHC/static/media/galves-task-1.f9e1c4ef.png",
+    "static/media/galves-task-2.4e7def54.png": "/IHC/static/media/galves-task-2.4e7def54.png",
     "static/media/Home.css": "/IHC/static/media/home-bg.58261668.jpg",
     "static/media/inicial-new-2.70e30fbb.png": "/IHC/static/media/inicial-new-2.70e30fbb.png",
     "static/media/inicial-new.c67b3aa9.png": "/IHC/static/media/inicial-new.c67b3aa9.png",
@@ -36,8 +36,8 @@
     "static/media/memoria.3b081851.png": "/IHC/static/media/memoria.3b081851.png",
     "static/media/monitorar.c5eb7844.png": "/IHC/static/media/monitorar.c5eb7844.png",
     "static/media/pesquisa.995d5ecc.png": "/IHC/static/media/pesquisa.995d5ecc.png",
-    "static/media/rafa-task-1.61d3dfcd.png": "/IHC/static/media/rafa-task-1.61d3dfcd.png",
-    "static/media/rafa-task-2.a334cc33.png": "/IHC/static/media/rafa-task-2.a334cc33.png",
+    "static/media/rafa-task-1.b746fcbf.png": "/IHC/static/media/rafa-task-1.b746fcbf.png",
+    "static/media/rafa-task-2.3addf391.png": "/IHC/static/media/rafa-task-2.3addf391.png",
     "static/media/servico-new.77558985.png": "/IHC/static/media/servico-new.77558985.png",
     "static/media/servico.0e2d07e9.png": "/IHC/static/media/servico.0e2d07e9.png",
     "static/media/signos-meta.8764b99a.png": "/IHC/static/media/signos-meta.8764b99a.png",
@@ -51,6 +51,6 @@
     "static/css/2.0d0b0543.chunk.css",
     "static/js/2.080f524b.chunk.js",
     "static/css/main.9c624de5.chunk.css",
-    "static/js/main.7563fb7d.chunk.js"
+    "static/js/main.1c5ebe96.chunk.js"
   ]
 }
