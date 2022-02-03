@@ -202,7 +202,8 @@ class EtapaTres extends Component {
                     <div className="EtapaTres-Content-Div">
                         <p>
                             O teste de primeiro clique (First Click) consiste em saber qual seria o primeiro clique do usuário para realização de uma tarefa.
-                            Nosso teste de First Click foi realizado entre os próprios integrantes desse trabalho por meio da ferramenta <b>Optimal Workshop</b>.
+                            Nosso teste de First Click foi realizado com a ajuda dos integrantes do <b>Grupo 8</b> e alguns participantes selecionados.
+                            Para essa avaliação foi usada a ferramenta <b>Optimal Workshop</b>.
                         </p>
                         <div className="EtapaTres-Sub-Title-Div Title-Odd">
                             <h6> Resultado </h6>
@@ -217,6 +218,7 @@ class EtapaTres extends Component {
                             <div className="EtapaTres-Tela-Content-Desc-Div">
                                 <p>
                                     <b className="Text-Odd">Objetivo:</b> "Onde o você iria clicar para obter mais informações de um serviço ?" <br/>
+                                    <b className="Text-Odd">Participantes:</b> 6 <br/>
                                     <b className="Text-Odd">Taxa de acerto:</b> 100% <br/>
                                 </p>
                             </div>
@@ -231,6 +233,7 @@ class EtapaTres extends Component {
                             <div className="EtapaTres-Tela-Content-Desc-Div">
                                 <p>
                                     <b className="Text-Odd">Objetivo:</b> "Onde o você iria clicar para receber notificações sobre o Facebook ?" <br/>
+                                    <b className="Text-Odd">Participantes:</b> 6 <br/>
                                     <b className="Text-Odd">Taxa de acerto:</b> 100% <br/>
                                 </p>
                             </div>
@@ -245,6 +248,7 @@ class EtapaTres extends Component {
                             <div className="EtapaTres-Tela-Content-Desc-Div">
                                 <p>
                                     <b className="Text-Odd">Objetivo:</b> "Onde o você iria clicar para retornar à tela do serviço sem concluir o formulário ?" <br/>
+                                    <b className="Text-Odd">Participantes:</b> 6 <br/>
                                     <b className="Text-Odd">Taxa de acerto:</b> 67% <br/>
                                 </p>
                             </div>
@@ -259,6 +263,7 @@ class EtapaTres extends Component {
                             <div className="EtapaTres-Tela-Content-Desc-Div">
                                 <p>
                                     <b className="Text-Odd">Objetivo:</b> "Onde o você iria clicar para retornar à tela inicial sem concluir o formulário ?" <br/>
+                                    <b className="Text-Odd">Participantes:</b> 6 <br/>
                                     <b className="Text-Odd">Taxa de acerto:</b> 100% <br/>
                                 </p>
                             </div>
@@ -273,6 +278,7 @@ class EtapaTres extends Component {
                             <div className="EtapaTres-Tela-Content-Desc-Div">
                                 <p>
                                     <b className="Text-Odd">Objetivo:</b> "Onde o você iria clicar para pesquisar por um serviço ?" <br/>
+                                    <b className="Text-Odd">Participantes:</b> 7 <br/>
                                     <b className="Text-Odd">Taxa de acerto:</b> 100% <br/>
                                 </p>
                             </div>
@@ -287,6 +293,7 @@ class EtapaTres extends Component {
                             <div className="EtapaTres-Tela-Content-Desc-Div">
                                 <p>
                                     <b className="Text-Odd">Objetivo:</b> "Onde o você iria clicar para obter mais informações do serviço ?" <br/>
+                                    <b className="Text-Odd">Participantes:</b> 7 <br/>
                                     <b className="Text-Odd">Taxa de acerto:</b> 100% <br/>
                                 </p>
                             </div>
